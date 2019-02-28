@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="ru.nsu.molochev.mtk.arithmetic-parser.main" target="1.8" />
+      <module name="ru.nsu.molochev.mtk.arithmetic-parser.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
