@@ -102,8 +102,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/JavaTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="267">
+              <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -170,8 +170,8 @@
         <option value="$PROJECT_DIR$/src/main/java/ru/nsu/molochev/mtc/Parser.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/nsu/molochev/mtc/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/test/java/JavaTests.java" />
         <option value="$PROJECT_DIR$/src/main/java/ru/nsu/molochev/mtc/Lexer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/JavaTests.java" />
       </list>
     </option>
   </component>
@@ -204,56 +204,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="arithmetic-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arithmetic-parser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arithmetic-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arithmetic-parser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mtc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arithmetic-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arithmetic-parser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arithmetic-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arithmetic-parser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="mtc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arithmetic-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arithmetic-parser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="arithmetic-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arithmetic-parser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="arithmetic-parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="arithmetic-parser" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -265,7 +215,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551352847498" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551353399918" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -359,17 +309,11 @@
       <workItem from="1549897072884" duration="8785000" />
       <workItem from="1550289378203" duration="23000" />
       <workItem from="1550656377153" duration="703000" />
-      <workItem from="1551348206352" duration="4482000" />
+      <workItem from="1551348206352" duration="5210000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArithmeticParserTests_parserCorrectExpression - 2019.02.12 at 19h 33m 33s.xml">
-      <configuration name="ArithmeticParserTests.parserCorrectExpression" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ArithmeticParserTests_parserIncorrectExpression - 2019.02.12 at 19h 37m 00s.xml">
-      <configuration name="ArithmeticParserTests.parserIncorrectExpression" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ArithmeticParserTests_parserIncorrectExpression - 2019.02.12 at 19h 39m 41s.xml">
       <configuration name="ArithmeticParserTests.parserIncorrectExpression" configurationId="JUnit" />
     </history-entry>
@@ -394,9 +338,24 @@
     <history-entry file="JavaTests - 2019.02.28 at 18h 18m 00s.xml">
       <configuration name="JavaTests" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="JavaTests - 2019.02.28 at 18h 19m 09s.xml">
+      <configuration name="JavaTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JavaTests - 2019.02.28 at 18h 20m 34s.xml">
+      <configuration name="JavaTests" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13993000" />
+    <option name="totallyTimeSpent" value="14721000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -411,10 +370,10 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.26022914" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39934534" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
@@ -485,24 +444,6 @@
           <line>10</line>
           <properties />
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/JavaTests.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/JavaTests.java</url>
-          <line>20</line>
-          <properties />
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/JavaTests.java</url>
-          <line>40</line>
-          <properties />
-          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -639,8 +580,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/JavaTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="267">
+          <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
